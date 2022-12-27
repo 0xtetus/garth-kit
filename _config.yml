@@ -1,5 +1,8 @@
 # Set theme
-theme: jez/tufte-pandoc-jekyll
+theme: tufte-pandoc-jekyll
+
+gems:
+  - jekyll-pandoc
 
 # File excludes
 exclude:
